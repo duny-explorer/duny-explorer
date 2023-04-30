@@ -6,6 +6,8 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duny-explorer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duny-explorer&repo=github-readme-stats&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **duny-explorer/duny-explorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
