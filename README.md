@@ -18,9 +18,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center" position="absolute" top=0 left=0>
-<img src="https://github-readme-stats.vercel.app/api?username=duny-explorer&show_icons=true&theme=slateorange"/ width=550>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duny-explorer&layout=compact&theme=slateorange"/ width=420>
+<div align="center" position="absolute" top=0 left=0 display=flex width=100% flex-wrap=nowrap justify-content=center>
+<img src="https://github-readme-stats.vercel.app/api?username=duny-explorer&show_icons=true&theme=slateorange"/ height=200px>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duny-explorer&layout=compact&theme=slateorange"/ height=200px>
 </div>
 
 <div align="center" position="absolute" top=0 left=0>
