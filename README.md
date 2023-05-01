@@ -19,8 +19,8 @@
 - ⚡ Fun fact: ...
 
 <div align="center" position="absolute" top=0 left=0 display=flex width=100% flex-wrap=nowrap justify-content=center>
-<img src="https://github-readme-stats.vercel.app/api?username=duny-explorer&show_icons=true&theme=slateorange"/ height=150px>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duny-explorer&layout=compact&theme=slateorange"/ height=150px>
+<img src="https://github-readme-stats.vercel.app/api?username=duny-explorer&show_icons=true&theme=slateorange"/ height=170px>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duny-explorer&layout=compact&theme=slateorange"/ height=170px>
 </div>
 
 <div align="center" position="absolute" top=0 left=0>
